@@ -1,0 +1,12 @@
+body {
+  background-color: yellow;
+}
+.ngbtn {
+  background-color: red;
+}
+
+.joinbtn {
+	background-color: green;
+	border: 200px; 
+ 	width: 100;
+}
